@@ -5,11 +5,15 @@
 The Media Center Project is an embedded systems application developed for the COE 718: Embedded Systems Design course at Ryerson University. It was implemented on the Keil MCB1700 Evaluation Board, leveraging the NXP LPC1700 ARM Cortex™-M3 microcontroller. The system features a real-time multimedia center with the following components:
 
 **Menu Interface**: A navigable menu displayed on the onboard LCD, controlled using the joystick.
+
 **Photo Gallery**: A viewer for bitmap images, navigable using the joystick, with support for selecting and exiting pictures.
+
 **Audio Player**: A USB DAC-based MP3 player that streams audio from a connected PC. Volume control is managed via an onboard potentiometer.
+
 **Snake Game**: A dynamic, joystick-controlled game with features including collision detection, score tracking, and random food generation.
 
 **Features**
+
   **Menu Interface**:
   - Multi-directional navigation to select options.
   - Real-time visual feedback with a selector for improved user interaction.

@@ -37,7 +37,7 @@ Hardware: Keil MCB1700 Board with an ARM Cortex™-M3 microcontroller, LCD, joys
 Software Tools: Keil µVision, GIMP (for image processing), and the LPC17xx library for device control.
 Programming Language: C.
 
-**Design Methodology:**
+**Design Methodology**
 
 Modular implementation for each component.
 Bitmap resizing and conversion for gallery images.
@@ -49,4 +49,5 @@ Event-driven programming for game mechanics and user interaction.
 Comprehensive IEEE-format reports were created to document the project phases, including design, development, testing, and implementation. The reports also outline challenges encountered and the steps taken to resolve them.
 
 **Usage**
+
 The project demonstrates key principles of embedded systems design, including real-time scheduling, device interfacing, and user-centered design. It serves as an engaging and functional multimedia application for learning and experimentation.

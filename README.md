@@ -1,6 +1,7 @@
 # Embedded-System---Multimedia-Center
 
 **Overview**
+
 The Media Center Project is an embedded systems application developed for the COE 718: Embedded Systems Design course at Ryerson University. It was implemented on the Keil MCB1700 Evaluation Board, leveraging the NXP LPC1700 ARM Cortex™-M3 microcontroller. The system features a real-time multimedia center with the following components:
 
 **Menu Interface**: A navigable menu displayed on the onboard LCD, controlled using the joystick.

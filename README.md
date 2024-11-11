@@ -51,7 +51,7 @@ Event-driven programming for game mechanics and user interaction.
 
 **Documentation**
 
-Comprehensive IEEE-format reports were created to document the project phases, including design, development, testing, and implementation. The reports also outline challenges encountered and the steps taken to resolve them.
+Comprehensive IEEE-format reports were created to document the project phases, including design, development, testing, and implementation. The reports also outline challenges encountered and the steps taken to resolve them. Link to report: https://drive.google.com/file/d/1SrgdEutc0CnHYEXZZ7ehh-toaZG0WL0q/view?usp=drive_link
 
 **Usage**
 

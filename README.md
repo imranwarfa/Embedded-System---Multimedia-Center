@@ -32,17 +32,20 @@ The Media Center Project is an embedded systems application developed for the CO
   - Simplified mechanics for enhanced usability, such as no border collision.
 
 **Technical Details**
+
 Hardware: Keil MCB1700 Board with an ARM Cortex™-M3 microcontroller, LCD, joystick, potentiometer, and onboard speaker.
 Software Tools: Keil µVision, GIMP (for image processing), and the LPC17xx library for device control.
 Programming Language: C.
 
 **Design Methodology:**
+
 Modular implementation for each component.
 Bitmap resizing and conversion for gallery images.
 Integration of USB-based audio streaming and DAC control.
 Event-driven programming for game mechanics and user interaction.
 
 **Documentation**
+
 Comprehensive IEEE-format reports were created to document the project phases, including design, development, testing, and implementation. The reports also outline challenges encountered and the steps taken to resolve them.
 
 **Usage**
